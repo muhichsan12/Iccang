@@ -1,7 +1,7 @@
 <?php
 /** @var yii\web\View $this */
 ?>
-<h1>krs-mahasiswa/delete</h1>
+<h1>krs-mahasiswa/pilihmatakuliah</h1>
 
 <p>
     You may change the content of this page by modifying

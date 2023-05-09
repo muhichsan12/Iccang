@@ -19,9 +19,9 @@ class KrsMahasiswaController extends \yii\web\Controller
         return $this->render('Update');
     }
 
-    public function actionDelete()
+    public function actionPilihMatakuliah()
     {
-        return $this->render('delete');
+        return $this->render('pilih-matakuliah');
     }
     
 }

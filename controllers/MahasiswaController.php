@@ -9,8 +9,8 @@ class MahasiswaController extends \yii\web\Controller
         return $this->render('index');
     }
     
-    public function actionProfil()
+    public function actionVerifikasiNim()
     {
-        return $this->render('profil');
+        return $this->render('verifikasi-nim');
     }
 }
